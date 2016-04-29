@@ -1,1 +1,1 @@
-print "Study Hall"
+print "Study Hall, Friday April 29th"
